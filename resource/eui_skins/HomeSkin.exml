@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HomeSkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" source="loading_bg_png" left="0" right="0" bottom="0" top="0"/>
+	<e:Button id="startBtn" label="" horizontalCenter="0" y="1028" visible="false"/>
+	<e:Group id="mcCon" horizontalCenter="0" bottom="250" touchChildren="false" touchEnabled="true"/>
+</e:Skin>

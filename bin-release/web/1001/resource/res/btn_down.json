@@ -1,0 +1,124 @@
+{"mc":{
+	"btn_dowm":{
+		"frameRate":20,
+		"labels":[
+			{"name":"btn_down","frame":1,"end":18}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Start game button_00058",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00059",
+			"x":20,
+			"y":8
+			},
+			{
+			"res":"Start game button_00060",
+			"x":7,
+			"y":4
+			},
+			{
+			"res":"Start game button_00061",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"Start game button_00062",
+			"x":0,
+			"y":0
+			},
+			{
+			"res":"Start game button_00063",
+			"x":10,
+			"y":5
+			},
+			{
+			"res":"Start game button_00064",
+			"x":18,
+			"y":7
+			},
+			{
+			"res":"Start game button_00065",
+			"x":25,
+			"y":9
+			},
+			{
+			"res":"Start game button_00066",
+			"x":32,
+			"y":12
+			},
+			{
+			"res":"Start game button_00067",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00068",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00069",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00070",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00071",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00072",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00073",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00074",
+			"x":33,
+			"y":12
+			},
+			{
+			"res":"Start game button_00075",
+			"x":33,
+			"y":12
+			}
+			]
+}},
+	"res":{
+		"Start game button_00061":{"x":528,"y":1,"w":525,"h":162},
+		"Start game button_00066":{"x":492,"y":321,"w":462,"h":144},
+		"Start game button_00070":{"x":1563,"y":300,"w":461,"h":145},
+		"Start game button_00065":{"x":1568,"y":1,"w":475,"h":150},
+		"Start game button_00074":{"x":1,"y":468,"w":460,"h":144},
+		"Start game button_00063":{"x":1055,"y":161,"w":506,"h":157},
+		"Start game button_00062":{"x":1,"y":1,"w":525,"h":162},
+		"Start game button_00060":{"x":1055,"y":1,"w":511,"h":158},
+		"Start game button_00067":{"x":1568,"y":153,"w":461,"h":145},
+		"Start game button_00058":{"x":1388,"y":593,"w":460,"h":144},
+		"Start game button_00075":{"x":926,"y":467,"w":460,"h":144},
+		"Start game button_00073":{"x":463,"y":613,"w":460,"h":144},
+		"Start game button_00069":{"x":1,"y":322,"w":461,"h":144},
+		"Start game button_00064":{"x":1,"y":165,"w":489,"h":155},
+		"Start game button_00071":{"x":979,"y":320,"w":460,"h":145},
+		"Start game button_00068":{"x":1441,"y":447,"w":460,"h":144},
+		"Start game button_00072":{"x":464,"y":467,"w":460,"h":144},
+		"Start game button_00059":{"x":492,"y":165,"w":485,"h":154}
+	}}

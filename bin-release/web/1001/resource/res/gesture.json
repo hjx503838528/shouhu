@@ -1,0 +1,418 @@
+{"mc":{
+	"gesture":{
+		"frameRate":24,
+		"labels":[
+			{"name":"gesture","frame":1,"end":67}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"Click Hand 1280 for crop _00017",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00018",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00019",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00020",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00021",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00022",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00023",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00024",
+			"x":134,
+			"y":139
+			},
+			{
+			"res":"Click Hand 1280 for crop _00025",
+			"x":133,
+			"y":136
+			},
+			{
+			"res":"Click Hand 1280 for crop _00026",
+			"x":132,
+			"y":133
+			},
+			{
+			"res":"Click Hand 1280 for crop _00027",
+			"x":130,
+			"y":130
+			},
+			{
+			"res":"Click Hand 1280 for crop _00028",
+			"x":129,
+			"y":127
+			},
+			{
+			"res":"Click Hand 1280 for crop _00029",
+			"x":130,
+			"y":130
+			},
+			{
+			"res":"Click Hand 1280 for crop _00030",
+			"x":131,
+			"y":133
+			},
+			{
+			"res":"Click Hand 1280 for crop _00031",
+			"x":133,
+			"y":136
+			},
+			{
+			"res":"Click Hand 1280 for crop _00032",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00033",
+			"x":133,
+			"y":136
+			},
+			{
+			"res":"Click Hand 1280 for crop _00034",
+			"x":131,
+			"y":133
+			},
+			{
+			"res":"Click Hand 1280 for crop _00035",
+			"x":130,
+			"y":130
+			},
+			{
+			"res":"Click Hand 1280 for crop _00036",
+			"x":129,
+			"y":127
+			},
+			{
+			"res":"Click Hand 1280 for crop _00037",
+			"x":130,
+			"y":130
+			},
+			{
+			"res":"Click Hand 1280 for crop _00038",
+			"x":131,
+			"y":133
+			},
+			{
+			"res":"Click Hand 1280 for crop _00039",
+			"x":133,
+			"y":135
+			},
+			{
+			"res":"Click Hand 1280 for crop _00040",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00041",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00042",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00043",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00044",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00045",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00046",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00047",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00048",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00049",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00050",
+			"x":134,
+			"y":138
+			},
+			{
+			"res":"Click Hand 1280 for crop _00051",
+			"x":134,
+			"y":134
+			},
+			{
+			"res":"Click Hand 1280 for crop _00052",
+			"x":134,
+			"y":130
+			},
+			{
+			"res":"Click Hand 1280 for crop _00053",
+			"x":135,
+			"y":125
+			},
+			{
+			"res":"Click Hand 1280 for crop _00054",
+			"x":136,
+			"y":96
+			},
+			{
+			"res":"Click Hand 1280 for crop _00055",
+			"x":132,
+			"y":97
+			},
+			{
+			"res":"Click Hand 1280 for crop _00056",
+			"x":124,
+			"y":99
+			},
+			{
+			"res":"Click Hand 1280 for crop _00057",
+			"x":120,
+			"y":107
+			},
+			{
+			"res":"Click Hand 1280 for crop _00058",
+			"x":103,
+			"y":113
+			},
+			{
+			"res":"Click Hand 1280 for crop _00059",
+			"x":103,
+			"y":113
+			},
+			{
+			"res":"Click Hand 1280 for crop _00060",
+			"x":108,
+			"y":115
+			},
+			{
+			"res":"Click Hand 1280 for crop _00061",
+			"x":109,
+			"y":105
+			},
+			{
+			"res":"Click Hand 1280 for crop _00062",
+			"x":106,
+			"y":97
+			},
+			{
+			"res":"Click Hand 1280 for crop _00063",
+			"x":96,
+			"y":88
+			},
+			{
+			"res":"Click Hand 1280 for crop _00064",
+			"x":88,
+			"y":80
+			},
+			{
+			"res":"Click Hand 1280 for crop _00065",
+			"x":81,
+			"y":73
+			},
+			{
+			"res":"Click Hand 1280 for crop _00066",
+			"x":66,
+			"y":59
+			},
+			{
+			"res":"Click Hand 1280 for crop _00067",
+			"x":59,
+			"y":52
+			},
+			{
+			"res":"Click Hand 1280 for crop _00068",
+			"x":52,
+			"y":45
+			},
+			{
+			"res":"Click Hand 1280 for crop _00069",
+			"x":46,
+			"y":38
+			},
+			{
+			"res":"Click Hand 1280 for crop _00070",
+			"x":41,
+			"y":33
+			},
+			{
+			"res":"Click Hand 1280 for crop _00071",
+			"x":31,
+			"y":27
+			},
+			{
+			"res":"Click Hand 1280 for crop _00072",
+			"x":25,
+			"y":28
+			},
+			{
+			"res":"Click Hand 1280 for crop _00073",
+			"x":21,
+			"y":24
+			},
+			{
+			"res":"Click Hand 1280 for crop _00074",
+			"x":23,
+			"y":26
+			},
+			{
+			"res":"Click Hand 1280 for crop _00075",
+			"x":30,
+			"y":32
+			},
+			{
+			"res":"Click Hand 1280 for crop _00076",
+			"x":27,
+			"y":34
+			},
+			{
+			"res":"Click Hand 1280 for crop _00077",
+			"x":20,
+			"y":20
+			},
+			{
+			"res":"Click Hand 1280 for crop _00078",
+			"x":19,
+			"y":18
+			},
+			{
+			"res":"Click Hand 1280 for crop _00079",
+			"x":19,
+			"y":17
+			},
+			{
+			"res":"Click Hand 1280 for crop _00080",
+			"x":19,
+			"y":16
+			},
+			{
+			"res":"Click Hand 1280 for crop _00081",
+			"x":19,
+			"y":16
+			},
+			{
+			"res":"Click Hand 1280 for crop _00082",
+			"x":19,
+			"y":16
+			},
+			{
+			"res":"Click Hand 1280 for crop _00083",
+			"x":20,
+			"y":17
+			}
+			]
+}},
+	"res":{
+		"Click Hand 1280 for crop _00077":{"x":1385,"y":1,"w":272,"h":257},
+		"Click Hand 1280 for crop _00046":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00056":{"x":1,"y":508,"w":93,"h":128},
+		"Click Hand 1280 for crop _00023":{"x":1104,"y":632,"w":83,"h":91},
+		"Click Hand 1280 for crop _00062":{"x":1933,"y":1,"w":114,"h":135},
+		"Click Hand 1280 for crop _00018":{"x":546,"y":691,"w":83,"h":90},
+		"Click Hand 1280 for crop _00059":{"x":1104,"y":506,"w":118,"h":124},
+		"Click Hand 1280 for crop _00050":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00073":{"x":1647,"y":260,"w":264,"h":242},
+		"Click Hand 1280 for crop _00054":{"x":1969,"y":414,"w":78,"h":119},
+		"Click Hand 1280 for crop _00017":{"x":1508,"y":693,"w":83,"h":90},
+		"Click Hand 1280 for crop _00019":{"x":1423,"y":693,"w":83,"h":90},
+		"Click Hand 1280 for crop _00055":{"x":96,"y":508,"w":83,"h":124},
+		"Click Hand 1280 for crop _00068":{"x":258,"y":500,"w":202,"h":201},
+		"Click Hand 1280 for crop _00067":{"x":462,"y":502,"w":188,"h":187},
+		"Click Hand 1280 for crop _00028":{"x":1423,"y":508,"w":84,"h":91},
+		"Click Hand 1280 for crop _00071":{"x":516,"y":263,"w":244,"h":237},
+		"Click Hand 1280 for crop _00064":{"x":1913,"y":260,"w":132,"h":152},
+		"Click Hand 1280 for crop _00042":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00058":{"x":988,"y":263,"w":118,"h":125},
+		"Click Hand 1280 for crop _00049":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00029":{"x":1509,"y":508,"w":84,"h":91},
+		"Click Hand 1280 for crop _00072":{"x":258,"y":263,"w":256,"h":235},
+		"Click Hand 1280 for crop _00052":{"x":266,"y":703,"w":81,"h":92},
+		"Click Hand 1280 for crop _00078":{"x":1109,"y":1,"w":274,"h":259},
+		"Click Hand 1280 for crop _00039":{"x":1595,"y":679,"w":83,"h":91},
+		"Click Hand 1280 for crop _00043":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00038":{"x":1509,"y":601,"w":84,"h":90},
+		"Click Hand 1280 for crop _00081":{"x":278,"y":1,"w":275,"h":260},
+		"Click Hand 1280 for crop _00074":{"x":1385,"y":260,"w":260,"h":246},
+		"Click Hand 1280 for crop _00069":{"x":762,"y":489,"w":214,"h":214},
+		"Click Hand 1280 for crop _00040":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00060":{"x":1933,"y":138,"w":113,"h":120},
+		"Click Hand 1280 for crop _00070":{"x":762,"y":263,"w":224,"h":224},
+		"Click Hand 1280 for crop _00044":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00020":{"x":1908,"y":665,"w":83,"h":91},
+		"Click Hand 1280 for crop _00034":{"x":1423,"y":601,"w":84,"h":90},
+		"Click Hand 1280 for crop _00063":{"x":978,"y":489,"w":124,"h":144},
+		"Click Hand 1280 for crop _00041":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00066":{"x":1647,"y":504,"w":174,"h":173},
+		"Click Hand 1280 for crop _00025":{"x":96,"y":634,"w":83,"h":91},
+		"Click Hand 1280 for crop _00035":{"x":1337,"y":601,"w":84,"h":91},
+		"Click Hand 1280 for crop _00030":{"x":652,"y":630,"w":84,"h":90},
+		"Click Hand 1280 for crop _00053":{"x":349,"y":703,"w":79,"h":94},
+		"Click Hand 1280 for crop _00037":{"x":1337,"y":508,"w":84,"h":91},
+		"Click Hand 1280 for crop _00036":{"x":1423,"y":508,"w":84,"h":91},
+		"Click Hand 1280 for crop _00033":{"x":1274,"y":694,"w":83,"h":90},
+		"Click Hand 1280 for crop _00021":{"x":1189,"y":637,"w":83,"h":91},
+		"Click Hand 1280 for crop _00079":{"x":555,"y":1,"w":275,"h":260},
+		"Click Hand 1280 for crop _00026":{"x":1680,"y":679,"w":83,"h":91},
+		"Click Hand 1280 for crop _00032":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00080":{"x":1,"y":1,"w":275,"h":260},
+		"Click Hand 1280 for crop _00048":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00047":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00065":{"x":1823,"y":504,"w":144,"h":159},
+		"Click Hand 1280 for crop _00051":{"x":462,"y":691,"w":82,"h":92},
+		"Click Hand 1280 for crop _00082":{"x":832,"y":1,"w":275,"h":260},
+		"Click Hand 1280 for crop _00027":{"x":988,"y":390,"w":84,"h":91},
+		"Click Hand 1280 for crop _00075":{"x":1,"y":263,"w":255,"h":243},
+		"Click Hand 1280 for crop _00057":{"x":652,"y":502,"w":99,"h":126},
+		"Click Hand 1280 for crop _00045":{"x":1,"y":638,"w":83,"h":91},
+		"Click Hand 1280 for crop _00061":{"x":1224,"y":506,"w":111,"h":129},
+		"Click Hand 1280 for crop _00022":{"x":1823,"y":665,"w":83,"h":91},
+		"Click Hand 1280 for crop _00024":{"x":978,"y":635,"w":83,"h":91},
+		"Click Hand 1280 for crop _00076":{"x":1109,"y":262,"w":261,"h":242},
+		"Click Hand 1280 for crop _00031":{"x":181,"y":703,"w":83,"h":90},
+		"Click Hand 1280 for crop _00083":{"x":1659,"y":1,"w":272,"h":257}
+	}}

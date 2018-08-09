@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StorySkin" width="720" height="1280" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg1" source="bg1_png" left="0" right="0" bottom="0" top="0"/>
+	<e:Group width="720" height="1280" y="0" horizontalCenter="0">
+		<e:Scroller id="scroller" width="648" height="1060" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" y="152" scrollPolicyH="off" x="36" scaleX="1" scaleY="1">
+			<e:Group>
+			<e:Image id="storyImg" source="bg2_png" horizontalCenter="0" y="1060"/>
+			<e:Rect id="arect" width="20" height="1050" x="0" y="2646" alpha="0"/>
+			</e:Group>
+		</e:Scroller>
+		<e:Image id="bg2" source="bg3_png" touchEnabled="false" height="1280" width="720" horizontalCenter="0" y="0"/>
+		<e:Rect id="bgMask" alpha="0.1" fillColor="0x000000" width="660" x="0" height="1280" y="0" touchChildren="false" touchEnabled="false"/>
+		<e:Button id="startBtn" icon="btn_go_png" horizontalCenter="0" y="1190"/>
+	</e:Group>
+</e:Skin>
